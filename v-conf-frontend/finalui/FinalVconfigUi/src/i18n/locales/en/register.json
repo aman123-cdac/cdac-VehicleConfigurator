@@ -1,0 +1,63 @@
+{
+    "title": "Register",
+    "step": "Step {{step}} of 4",
+    "company": "Company",
+    "personal": "Personal",
+    "address": "Address",
+    "account": "Account",
+    "detailsSuffix": "Details",
+    "continue": "Continue",
+    "complete": "Complete Registration",
+    "processing": "Processing...",
+    "back": "Back",
+    "success": "Registration successful!",
+    "saving": "Saving to database...",
+    "serverErrorPrefix": "Server Error",
+    "tryAgain": "Please try again.",
+    "serverError": "Server error occurred",
+    "networkError": "Could not connect to server",
+    "fields": {
+        "phone": "Phone Number",
+        "pin": "PIN Code",
+        "companyName": "Company Name",
+        "holdingType": "Holding Type",
+        "taxPan": "PAN Number",
+        "authName": "Authorized Person",
+        "designation": "Designation",
+        "cell": "Mobile Number",
+        "add1": "Address Line 1",
+        "city": "City",
+        "state": "State",
+        "email": "Email",
+        "username": "Username",
+        "password": "Password"
+    },
+    "placeholders": {
+        "pin": "6-digit PIN code",
+        "companyName": "Enter Company Name",
+        "holdingType": "Pvt Ltd / Partnership",
+        "authName": "Full Legal Name",
+        "designation": "e.g. Director",
+        "cell": "10-digit mobile number"
+    },
+    "errors": {
+        "companyName": "Min 3 characters required",
+        "holdingType": "Select holding type",
+        "taxPan": "Invalid PAN (ABCDE1234F)",
+        "authName": "Full name is required",
+        "designation": "Designation is required",
+        "cell": "Invalid 10-digit mobile number",
+        "phone": "Invalid 10-digit phone number",
+        "add1": "Address Line 1 is required",
+        "city": "City is required",
+        "pin": "Invalid 6-digit PIN",
+        "email": "Enter valid email",
+        "username": "Username min 4 chars",
+        "password": "Password must be 8+ chars with 1 letter & 1 number"
+    },
+    "backend": {
+        "PHONE_EXISTS": "Phone number already registered",
+        "EMAIL_EXISTS": "Email already registered",
+        "USERNAME_EXISTS": "Username already taken"
+    }
+}

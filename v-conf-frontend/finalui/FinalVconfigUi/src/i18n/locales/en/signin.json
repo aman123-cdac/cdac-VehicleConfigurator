@@ -1,0 +1,16 @@
+{
+    "title": "Sign In",
+    "subtitle": "Access your vehicle configuration dashboard",
+    "username": "Username or Email",
+    "password": "Password",
+    "submit": "Sign In",
+    "noAccount": "Don't have an account?",
+    "register": "Register here",
+    "or": "or",
+    "google": "Continue with Google",
+    "facebook": "Continue with Facebook",
+    "success": "Login successful",
+    "invalid": "Invalid credentials",
+    "backendError": "Backend not reachable (http://localhost:8080)",
+    "processing": "Signing in..."
+}

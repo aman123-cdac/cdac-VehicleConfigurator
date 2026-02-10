@@ -1,0 +1,16 @@
+{
+    "title": "Connexion",
+    "subtitle": "Accédez à votre tableau de bord de configuration de véhicule",
+    "username": "Nom d’utilisateur ou Email",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "register": "Inscrivez-vous ici",
+    "or": "ou",
+    "google": "Continuer avec Google",
+    "facebook": "Continuer avec Facebook",
+    "success": "Connexion réussie",
+    "invalid": "Identifiants invalides",
+    "backendError": "Backend non joignable (http://localhost:8080)",
+    "processing": "Connexion..."
+}

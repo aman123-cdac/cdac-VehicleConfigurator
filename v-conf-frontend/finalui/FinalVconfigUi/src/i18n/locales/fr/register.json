@@ -1,0 +1,63 @@
+{
+    "title": "Inscription",
+    "step": "Étape {{step}} sur 4",
+    "company": "Entreprise",
+    "personal": "Personnel",
+    "address": "Adresse",
+    "account": "Compte",
+    "detailsSuffix": "Détails",
+    "continue": "Continuer",
+    "complete": "Finaliser l'inscription",
+    "processing": "Traitement...",
+    "back": "Retour",
+    "success": "Inscription réussie !",
+    "saving": "Enregistrement...",
+    "serverErrorPrefix": "Erreur du serveur",
+    "tryAgain": "Veuillez réessayer.",
+    "serverError": "Erreur du serveur",
+    "networkError": "Impossible de se connecter au serveur",
+    "fields": {
+        "phone": "Numéro de téléphone",
+        "pin": "Code PIN",
+        "companyName": "Nom de l’entreprise",
+        "holdingType": "Type de société",
+        "taxPan": "Numéro PAN",
+        "authName": "Personne autorisée",
+        "designation": "Fonction",
+        "cell": "Numéro de mobile",
+        "add1": "Adresse ligne 1",
+        "city": "Ville",
+        "state": "Région/État",
+        "email": "Email",
+        "username": "Nom d’utilisateur",
+        "password": "Mot de passe"
+    },
+    "placeholders": {
+        "pin": "Code PIN à 6 chiffres",
+        "companyName": "Entrez le nom de l’entreprise",
+        "holdingType": "Pvt Ltd / Partenariat",
+        "authName": "Nom légal complet",
+        "designation": "ex. Directeur",
+        "cell": "Numéro mobile à 10 chiffres"
+    },
+    "errors": {
+        "companyName": "Minimum 3 caractères requis",
+        "holdingType": "Sélectionnez le type de société",
+        "taxPan": "PAN invalide (ABCDE1234F)",
+        "authName": "Le nom complet est requis",
+        "designation": "La fonction est requise",
+        "cell": "Numéro mobile invalide",
+        "phone": "Numéro de téléphone invalide",
+        "add1": "Adresse ligne 1 requise",
+        "city": "Ville requise",
+        "pin": "Code PIN invalide",
+        "email": "Entrez un email valide",
+        "username": "Nom d’utilisateur min 4 caractères",
+        "password": "Mot de passe min 8 caractères avec 1 lettre et 1 chiffre"
+    },
+    "backend": {
+        "PHONE_EXISTS": "Numéro de téléphone déjà enregistré",
+        "EMAIL_EXISTS": "Email déjà enregistré",
+        "USERNAME_EXISTS": "Nom d’utilisateur déjà utilisé"
+    }
+}

@@ -1,0 +1,45 @@
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== .NET =====
+.vs/
+bin/
+obj/
+*.dll
+*.exe
+
+# ===== Java / Maven =====
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# ===== IDE =====
+.metadata/
+.settings/
+.classpath
+.project
+.idea/
+
+# ===== Frontend =====
+node_modules/
+dist/
+build/
+
+# ===== Logs =====
+*.log
+
+# ===== Environment / Secrets =====
+.env
+*.env
+application-local.yml
+application-dev.yml
+application-prod.yml
+application-secrets.yml
+
+# ===== Security =====
+*.keystore
+*.jks
+*.p12
