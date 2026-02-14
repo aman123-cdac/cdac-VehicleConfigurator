@@ -5,7 +5,7 @@ A full-stack vehicle configuration and invoice generation system built using:
 
 - ⚙️ Spring Boot (Backend)
 - 🗄️ MySQL Database
-- 💻 Vue.js (Frontend)
+- 💻 React.js (Frontend)
 - 📄 iText PDF (Invoice Generation)
 - 🌐 Multi-language Support (English, Hindi, French, Marathi, Sanskrit)
 =======
