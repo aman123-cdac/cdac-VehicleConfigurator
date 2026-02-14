@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚗 CDAC Vehicle Configuration System
 
 A full-stack vehicle configuration and invoice generation system built using:
@@ -20,7 +20,7 @@ This repository follows a **monorepo structure** and contains **backend (Java + 
 
 ## 📌 Project Overview
 
-<<<<<<< HEAD
+
 The Vehicle Configuration System allows users to:
 
 - Register company details
