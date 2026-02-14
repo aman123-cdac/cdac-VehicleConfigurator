@@ -418,17 +418,3 @@ CDAC Faculty & Mentors
 Spring Boot & React Open Source Community
 
 
----
-
-## ✅ What I recommend next (quick wins)
-
-If you want, I can now:
-- **Add `.env.example`** for contributors
-- **Improve README with screenshots**
-- **Refactor repo into clean monorepo style**
-- **Add GitHub Actions CI**
-- **Review project for interview questions**
-
-Just reply with the number:
-**2, 3, 4, or 5** 🚀
-
