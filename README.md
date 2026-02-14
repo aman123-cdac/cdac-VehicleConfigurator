@@ -207,7 +207,7 @@ Shows:
 - iText PDF
 
 ## 🔹 Frontend
-- Vue.js
+- React.js
 - Tailwind CSS
 - Axios
 
